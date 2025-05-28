@@ -1,5 +1,6 @@
 # 🗺️ Plan du repository
 
+```bash
 Lab_Vagrant_Ansible/  
 ├── README.md               # Vue d’ensemble du projet    
 ├── docs/                   # Dossier de documentation  
@@ -11,7 +12,7 @@ Lab_Vagrant_Ansible/
 │   ├── page_statistique/   # Affichage des statistiques via HAProxy  
 │   └── screen_roundrobin/  # Exemple de load balancing Round Robin  
 ├── .gitignore              # Fichiers/dossiers à exclure du versionnement  
-
+```
 
 <br> 
 
