@@ -2,16 +2,16 @@
 
 ```bash
 Lab_Vagrant_Ansible/  
-├── README.md               # Vue d’ensemble du projet    
-├── docs/                   # Dossier de documentation  
-│   ├── Ansible.md          # Détails des rôles Ansible, commandes associées  
+├── README.md                    # Vue d’ensemble du projet    
+├── docs/                        # Dossier de documentation  
+│   ├── Ansible.md               # Détails des rôles Ansible, commandes associées  
 │   ├── commandes_vagrant.md     # Toutes les commandes utiles utilisées  
-│   ├── HAProxy.md          # Rôle et configuration logique du load balancer  
-│   └── Vagrant.md          # Explication détaillée de la partie Vagrant  
-├── screen_vagrant/         # Captures d’écran  
-│   ├── page_statistique/   # Affichage des statistiques via HAProxy  
-│   └── screen_roundrobin/  # Exemple de load balancing Round Robin  
-├── .gitignore              # Fichiers/dossiers à exclure du versionnement  
+│   ├── HAProxy.md               # Rôle et configuration logique du load balancer  
+│   └── Vagrant.md               # Explication détaillée de la partie Vagrant  
+├── screen_vagrant/              # Captures d’écran  
+│   ├── page_statistique/        # Affichage des statistiques via HAProxy  
+│   └── screen_roundrobin/       # Exemple de load balancing Round Robin  
+├── .gitignore                   # Fichiers/dossiers à exclure du versionnement  
 ```
 
 <br> 
